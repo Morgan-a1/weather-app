@@ -1,13 +1,13 @@
 {
-  "name": "the-ultimate-api-challenge-weather-app-react",
-  "version": "0.1.0",
+  "name": "weather-app",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
     "axios": "^0.21.1",
-    "bootstrap": "^4.6.0",
+    "bootstrap": "4.6.0",
     "moment": "^2.29.1",
     "react": "^17.0.2",
     "react-bootstrap": "^1.6.0",
@@ -38,5 +38,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/Morgan-a1/weather-app.git",
+  "author": "Morgan <morgan_a1@hotmail.com>",
+  "license": "MIT"
 }
